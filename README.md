@@ -1,4 +1,3 @@
-# ngBoltJS CLI
 
 This is the command-line interface for the [ngBoltJS](https://github.com/ngbolt/ng-bolt) Application Framework. It can setup a new ngBoltJS project, run an ngBoltJS application in a development environment and deploy to a production environment.
 
