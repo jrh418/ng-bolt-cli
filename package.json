@@ -1,5 +1,4 @@
 {
-  "name": "ng-bolt-cli",
   "version": "2.0.0",
   "description": "Command-line interface for ngBoltJS Application Framework.",
   "author": "Penn State University",
